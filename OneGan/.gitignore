@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+.cache/
+.pytest_cache/
+__pycache__/
+build/
+dist/
+htmlcov/
+*.egg-info/
+*.pyc
+.coverage
+
+logs/
+nets.py
